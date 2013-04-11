@@ -74,10 +74,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Application.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/sabadosh/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="26" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
+            <state line="35" column="22" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.51607144">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,16 +88,7 @@
       <file leaf-file-name="TaskDAO.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sabadosh/TaskDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tests.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sabadosh/Tests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="5" selection-start="1361" selection-end="1361" vertical-scroll-proportion="0.75714284">
+            <state line="56" column="30" selection-start="1900" selection-end="1905" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,7 +99,25 @@
       <file leaf-file-name="Task.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sabadosh/Task.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="40" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
+            <state line="12" column="15" selection-start="350" selection-end="353" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tests.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sabadosh/Tests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="24" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Console.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sabadosh/Console.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="28" selection-start="1497" selection-end="1501" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,12 +136,12 @@
         <option value="$PROJECT_DIR$/src/com/sabadosh/Main.java" />
         <option value="$PROJECT_DIR$/src/com/sabadosh/Account.java" />
         <option value="$PROJECT_DIR$/src/com/sabadosh/Customer.java" />
-        <option value="$PROJECT_DIR$/log4j.properties" />
         <option value="$PROJECT_DIR$/src/com/sabadosh/Console.java" />
         <option value="$PROJECT_DIR$/src/com/sabadosh/Task.java" />
-        <option value="$PROJECT_DIR$/src/com/sabadosh/TaskDAO.java" />
         <option value="$PROJECT_DIR$/src/com/sabadosh/Tests.java" />
         <option value="$PROJECT_DIR$/src/com/sabadosh/Application.java" />
+        <option value="$PROJECT_DIR$/src/com/sabadosh/TaskDAO.java" />
+        <option value="$PROJECT_DIR$/log4j.properties" />
       </list>
     </option>
   </component>
@@ -187,7 +196,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -226,7 +235,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,11 +259,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Sabik_Project\orm" />
       <recent name="E:\Sabik_Project\orm\src\com\sabadosh" />
+      <recent name="E:\Sabik_Project\orm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="JUnit.Tests.testTaskCreate">
     <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.sabadosh.Application" />
       <option name="VM_PARAMETERS" />
@@ -399,8 +408,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.Application" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Tests.testTaskCreate" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Tests.testTaskCreate" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Application" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -435,8 +444,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -452,7 +461,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15984848" sideWeight="0.49829352" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15984848" sideWeight="0.38225257" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6177474" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -526,17 +535,12 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sabadosh/Console.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="36" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sabadosh/TaskDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="5" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -591,42 +595,35 @@
         <state line="1401" column="18" selection-start="52579" selection-end="52579" vertical-scroll-proportion="0.14391144" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/ormlite-core-4.45.jar!/com/j256/ormlite/dao/Dao.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="8" selection-start="1847" selection-end="1847" vertical-scroll-proportion="0.3505747">
+        <state line="47" column="8" selection-start="1847" selection-end="1847" vertical-scroll-proportion="0.3505747" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_17/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="17" selection-start="4208" selection-end="4208" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sabadosh/Console.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="42" selection-start="941" selection-end="941" vertical-scroll-proportion="0.88035715">
+        <state line="49" column="28" selection-start="1497" selection-end="1501" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sabadosh/Task.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="40" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
+        <state line="12" column="15" selection-start="350" selection-end="353" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sabadosh/TaskDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sabadosh/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="26" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
+        <state line="56" column="30" selection-start="1900" selection-end="1905" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -635,7 +632,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sabadosh/Tests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="5" selection-start="1361" selection-end="1361" vertical-scroll-proportion="0.75714284">
+        <state line="28" column="24" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sabadosh/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="22" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.51607144">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
